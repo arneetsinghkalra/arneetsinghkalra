@@ -1,4 +1,4 @@
-### Hey there 👋
+<h3 align="center"> Hey There 👋 </h3>
 
 ```java
 class HelloWorld {
