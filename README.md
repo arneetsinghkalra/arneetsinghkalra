@@ -20,22 +20,10 @@ I am currently interning as a Software Engineer for a McGill startup called Recy
 
 ### I am currently applying for Internships as a Software Engineer for Summer 2021. Check out my LinkedIn!
 
-<!--
-**arneetsinghkalra/arneetsinghkalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-	<a href="https://www.linkedin.com/in/arneetsinghkalra"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/arneetsinghkalra"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 </p>
+
+
 
 
