@@ -7,7 +7,7 @@ class HelloWorld {
       	Hello, World! Welcome to my GitHub. 
       	My name is Arneet Singh Kalra. 
       	I'm a 4th year Software Engineering Student at McGill University. 
-	I recently interned as a Software Engineering at Publicis Sapient (Summer 2021).
+	I recently interned as a Software Engineer at Publicis Sapient (Summer 2021).
       ");
 }
 ```
